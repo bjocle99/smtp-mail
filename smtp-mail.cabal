@@ -43,5 +43,6 @@ library
                , text
                , cryptonite
                , memory
+               , tls
 
   ghc-options: -Wall -fwarn-tabs
